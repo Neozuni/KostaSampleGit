@@ -16,7 +16,7 @@ hello git
 
 <h1>Master update</h1>
 
-ÀÌ°Ç ºê·±Ä¡ Å×½ºÆ® ZUNIX
+ï¿½Ì°ï¿½ ï¿½ê·±Ä¡ ï¿½×½ï¿½Æ® ZUNIX
 
 <h2>clientupdate</h2>
 
@@ -24,7 +24,9 @@ zunixx masterupdate form 222
 
 added message
 
-¤·¤©¤·¤·¤·¤©¤©¤·
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+
+<h2> Neo update </h2>
 
 </body>
 </html>
