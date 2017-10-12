@@ -18,6 +18,8 @@ hello git
 
 이건 브런치 테스트 ZUNIX
 
+나도 개별기능을 써보자
+
 <h2>clientupdate</h2>
 
 </body>
