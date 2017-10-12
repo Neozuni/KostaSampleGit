@@ -16,6 +16,8 @@ hello git
 
 <h1>Master update</h1>
 
+이건 브런치 테스트 ZUNIX
+
 <h2>clientupdate</h2>
 
 zunixx masterupdate form 222
